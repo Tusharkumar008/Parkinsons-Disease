@@ -10,6 +10,8 @@ In the early stages of Parkinson's disease, your face may show little or no expr
 
 Although Parkinson's disease can't be cured, medicines might significantly improve your symptoms. Occasionally, a health care professional may suggest surgery to regulate certain regions of your brain and improve your symptoms.
 
+![parkinsons-Disease](i"D:\PARKISONS DISEASE\archive (1)\PK.jpg")
+
 ## Symptoms
 
 Parkinson's disease symptoms can be different for everyone. Early symptoms may be mild and go unnoticed. Symptoms often begin on one side of the body and usually remain worse on that side, even after symptoms begin to affect the limbs on both sides.
