@@ -40,7 +40,7 @@ Speech changes:-
 Writing changes:-
     It may become hard to write, and your writing may appear small.
 
-![Parkinsons Disease Symptoms]([https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2F8525-parkinsons-disease.jpg](https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2FPK.jpg))
+![Parkinsons Disease Symptoms](https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2FPK.jpg)
 
 ##Causes
 
