@@ -40,6 +40,8 @@ Speech changes:-
 Writing changes:-
     It may become hard to write, and your writing may appear small.
 
+![Parkinsons Disease Symptoms]([https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2F8525-parkinsons-disease.jpg](https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2FPK.jpg))
+
 ##Causes
 
 The cause of Parkinson's disease is unknown, but several factors appear to play a role, including:
@@ -74,3 +76,5 @@ Sex:-
 
 Exposure to toxins:-
     Ongoing exposure to herbicides and pesticides may slightly increase your risk of Parkinson's disease.
+
+![Stage of Parkinsons Disease](https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2Fzhansen-5200700_Finaledit2-3e7eb00f1bdb4806adb3f67ca4404894.jpg))
