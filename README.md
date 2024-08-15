@@ -10,6 +10,7 @@ In the early stages of Parkinson's disease, your face may show little or no expr
 
 Although Parkinson's disease can't be cured, medicines might significantly improve your symptoms. Occasionally, a health care professional may suggest surgery to regulate certain regions of your brain and improve your symptoms.
 
+![Parkinsons Disease](https://github.com/Tusharkumar008/Parkinsons-Disease/blob/main/assets%2F8525-parkinsons-disease.jpg)
 
 
 ## Symptoms
